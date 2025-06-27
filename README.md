@@ -150,10 +150,6 @@ const { data, error } = await supabase
 ### Other Platforms
 Make sure to set the environment variables in your hosting platform's dashboard.
 
-## License
-
-MIT License - feel free to use this template for your projects!
-
 ## Support
 
 If you encounter any issues, check the [Supabase documentation](https://supabase.com/docs) or [Next.js documentation](https://nextjs.org/docs).
